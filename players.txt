@@ -1,0 +1,768 @@
+Brazil (host)
+1 GK Jefferson
+2 DF Dani Alves
+3 DF Thiago Silva
+4 DF David Luiz
+5 MF Fernandinho
+6 DF Marcelo
+7 FW Hulk
+8 MF Paulinho
+9 FW Fred
+10 FW Neymar
+11 MF Oscar
+12 GK Julio Cesar
+13 DF Dante
+14 DF Maxwell
+15 DF Henrique
+16 MF Ramires
+17 MF Luiz Gustavo
+18 MF Hernanes
+19 MF Willian
+20 FW Bernard
+21 FW Ju
+22 GK Victor
+23 DF Maicon
+Cameroon
+1 GK Loc Feudjou
+2 DF Benot Assou-Ekotto
+3 DF Nicolas N'Koulou
+4 DF Cedric Djeugoue
+5 DF Dany Nounkeu
+6 MF Alex Song
+7 MF Landry N'Guemo
+8 FW Benjamin Moukandjo
+9 FW Samuel Eto'o
+10 FW Vincent Aboubakar
+11 MF Jean Makoun
+12 DF Henri Bedimo
+13 FW Maxim Choupo-Moting
+14 DF Aurelien Chedjou
+15 FW Pierre Webo
+16 GK Charles Itandje
+17 MF Stephane Mbia
+18 MF Eyong Enoh
+19 FW Fabrice Olinga
+20 MF Edgar Salli
+21 MF Jol Matip
+22 DF Allan Nyom
+23 GK Sammy N'Djock
+Croatia
+1 GK Stipe Pletikosa
+2 DF ime Vrsaljko
+3 DF Danijel Pranji
+4 MF Ivan Perii
+5 DF Vedran orluka
+6 DF Dejan Lovren
+7 MF Ivan Rakiti
+8 MF Ognjen Vukojevi
+9 FW Nikica Jelavi
+10 MF Luka Modri
+11 DF Darijo Srna
+12 GK Oliver Zelenika
+13 DF Gordon Schildenfeld
+14 MF Marcelo Brozovi
+15 MF Milan Badelj
+16 FW Ante Rebi
+17 FW Mario Manduki
+18 FW Ivica Oli
+19 MF Sammir
+20 MF Mateo Kovai
+21 DF Domagoj Vida
+22 FW Eduardo
+23 GK Danijel Subai
+Mexico
+1 GK Jose de Jesus Corona
+2 DF Francisco Javier Rodriguez
+3 DF Carlos Salcido
+4 DF Rafael Marquez
+5 DF Diego Reyes
+6 MF Hector Herrera
+7 DF Miguel Layun
+8 MF Marco Fabian
+9 FW Raul Jimenez
+10 FW Giovani dos Santos
+11 FW Alan Pulido
+12 GK Alfredo Talavera
+13 GK Guillermo Ochoa
+14 FW Javier Hernandez
+15 DF Hector Moreno
+16 DF Miguel angel Ponce
+17 MF Isaac Brizuela
+18 DF Andres Guardado
+19 FW Oribe Peralta
+20 MF Javier Aquino
+21 MF Carlos Pea
+22 DF Paul Aguilar
+23 MF Jose Juan Vazquez
+Australia
+1 GK Mathew Ryan
+2 DF Ivan Franjic
+3 DF Jason Davidson
+4 FW Tim Cahill
+5 MF Mark Milligan
+6 DF Matthew piranovi
+7 FW Mathew Leckie
+8 DF Bailey Wright
+9 FW Adam Taggart
+10 MF Ben Halloran
+11 MF Tommy Oar
+12 GK Mitchell Langerak
+13 MF Oliver Bozani
+14 MF James Troisi
+15 MF Mile Jedinak
+16 MF James Holland
+17 MF Matt McKay
+18 GK Eugene Galekovi
+19 DF Ryan McGowan
+20 MF Dario Vidoi
+21 MF Massimo Luongo
+22 DF Alex Wilkinson
+23 MF Mark Bresciano
+Chile
+1 GK Claudio Bravo
+2 DF Eugenio Mena
+3 DF Miiko Albornoz
+4 MF Mauricio Isla
+5 MF Francisco Silva
+6 MF Carlos Carmona
+7 FW Alexis Sanchez
+8 MF Arturo Vidal
+9 FW Mauricio Pinilla
+10 MF Jorge Valdivia
+11 FW Eduardo Vargas
+12 GK Cristopher Toselli
+13 DF Jose Manuel Rojas
+14 MF Fabian Orellana
+15 MF Jean Beausejour
+16 MF Felipe Gutierrez
+17 DF Gary Medel
+18 DF Gonzalo Jara
+19 MF Jose Pedro Fuenzalida
+20 MF Charles Aranguiz
+21 MF Marcelo Diaz
+22 FW Esteban Paredes
+23 GK Johnny Herrera
+Netherlands
+1 GK Jasper Cillessen
+2 DF Ron Vlaar
+3 DF Stefan de Vrij
+4 DF Bruno Martins Indi
+5 DF Daley Blind
+6 MF Nigel de Jong
+7 DF Daryl Janmaat
+8 MF Jonathan de Guzman
+9 FW Robin van Persie
+10 MF Wesley Sneijder
+11 FW Arjen Robben
+12 DF Paul Verhaegh
+13 DF Jol Veltman
+14 DF Terence Kongolo
+15 FW Dirk Kuyt
+16 MF Jordy Clasie
+17 FW Jeremain Lens
+18 MF Leroy Fer
+19 FW Klaas-Jan Huntelaar
+20 MF Georginio Wijnaldum
+21 FW Memphis Depay
+22 GK Michel Vorm
+23 GK Tim Krul
+Spain
+1 GK Iker Casillas
+2 DF Raul Albiol
+3 DF Gerard Pique
+4 MF Javi Martinez
+5 DF Juanfran
+6 MF Andres Iniesta
+7 FW David Villa
+8 MF Xavi
+9 FW Fernando Torres
+10 MF Cesc Fàbregas
+11 FW Pedro
+12 GK David de Gea
+13 MF Juan Mata
+14 MF Xabi Alonso
+15 DF Sergio Ramos
+16 MF Sergio Busquets
+17 MF Koke
+18 DF Jordi Alba
+19 FW Diego Costa
+20 MF Santi Cazorla
+21 MF David Silva
+22 DF Cesar Azpilicueta
+23 GK Pepe Reina
+Colombia
+1 GK David Ospina
+2 DF Cristian Zapata
+3 DF Mario Yepes
+4 DF Santiago Arias
+5 MF Carlos Carbonero
+6 MF Carlos Sanchez
+7 DF Pablo Armero
+8 MF Abel Aguilar
+9 FW Teofilo Gutierrez
+10 MF James Rodriguez
+11 MF Juan Guillermo Cuadrado
+12 GK Camilo Vargas
+13 MF Fredy Guarin
+14 FW Victor Ibarbo
+15 MF Alexander Mejia
+16 DF eder alvarez Balanta
+17 FW Carlos Bacca
+18 DF Juan Camilo Zuiga
+19 FW Adrian Ramos
+20 MF Juan Fernando Quintero
+21 FW Jackson Martinez
+22 GK Faryd Mondragon
+23 DF Carlos Valdes
+Greece
+1 GK Orestis Karnezis
+2 MF Giannis Maniatis
+3 DF Giorgos Tzavellas
+4 DF Kostas Manolas
+5 DF Vangelis Moras
+6 MF Alexandros Tziolis
+7 FW Georgios Samaras
+8 MF Panagiotis Kone
+9 FW Kostas Mitroglou
+10 MF Giorgos Karagounis
+11 DF Loukas Vyntra
+12 GK Panagiotis Glykos
+13 GK Stefanos Kapino
+14 FW Dimitris Salpingidis
+15 DF Vasilis Torosidis
+16 MF Lazaros Christodoulopoulos
+17 FW Theofanis Gekas
+18 MF Giannis Fetfatzidis
+19 DF Sokratis Papastathopoulos
+20 DF Jose Holebas
+21 MF Kostas Katsouranis
+22 MF Andreas Samaris
+23 MF Panagiotis Tachtsidis
+Ivory Coast
+1 GK Boubacar Barry
+2 DF Ousmane Viera
+3 DF Arthur Boka
+4 DF Kolo Toure
+5 DF Didier Zokora
+6 FW Mathis Bolly
+7 DF Jean-Daniel Akpa-Akpro
+8 FW Salomon Kalou
+9 MF Cheick Tiote
+10 FW Gervinho
+11 FW Didier Drogba
+12 FW Wilfried Bony
+13 FW Didier Ya Konan
+14 MF Ismal Diomande
+15 FW Max Gradel
+16 GK Sylvain Gbohouo
+17 DF Serge Aurier
+18 DF Constant Djakpa
+19 MF Yaya Toure
+20 MF Serey Die
+21 FW Giovanni Sio
+22 DF Sol Bamba
+23 GK Sayouba Mande
+Japan
+1 GK Eiji Kawashima
+2 DF Atsuto Uchida
+3 DF Gotoku Sakai
+4 MF Keisuke Honda
+5 DF Yuto Nagatomo
+6 DF Masato Morishige
+7 MF Yasuhito Endo
+8 MF Hiroshi Kiyotake
+9 FW Shinji Okazaki
+10 MF Shinji Kagawa
+11 FW Yoichiro Kakitani
+12 GK Shusaku Nishikawa
+13 FW Yoshito okubo
+14 MF Toshihiro Aoyama
+15 DF Yasuyuki Konno
+16 MF Hotaru Yamaguchi
+17 MF Makoto Hasebe
+18 FW Yuya Osako
+19 DF Masahiko Inoha
+20 FW Manabu Saito
+21 DF Hiroki Sakai
+22 DF Maya Yoshida
+23 GK Shuichi Gonda
+Costa Rica
+1 GK Keylor Navas
+2 DF Johnny Acosta
+3 DF Giancarlo Gonzalez
+4 DF Michael Umaa
+5 MF Celso Borges
+6 DF oscar Duarte
+7 MF Christian Bolaos
+8 DF David Myrie
+9 FW Joel Campbell
+10 FW Bryan Ruiz
+11 MF Michael Barrantes
+12 DF Waylon Francis
+13 MF Esteban Granados
+14 FW Randall Brenes
+15 DF Junior Diaz
+16 DF Cristian Gamboa
+17 MF Yeltsin Tejeda
+18 GK Patrick Pemberton
+19 DF Roy Miller
+20 MF Diego Calvo
+21 FW Marco Urea
+22 MF Jose Miguel Cubero
+23 GK Daniel Cambronero
+England
+1 GK Joe Hart
+2 DF Glen Johnson
+3 DF Leighton Baines
+4 MF Steven Gerrard
+5 DF Gary Cahill
+6 DF Phil Jagielka
+7 MF Jack Wilshere
+8 MF Frank Lampard
+9 FW Daniel Sturridge
+10 FW Wayne Rooney
+11 FW Danny Welbeck
+12 DF Chris Smalling
+13 GK Ben Foster
+14 MF Jordan Henderson
+15 MF Alex Oxlade-Chamberlain
+16 DF Phil Jones
+17 MF James Milner
+18 FW Rickie Lambert
+19 MF Raheem Sterling
+20 MF Adam Lallana
+21 MF Ross Barkley
+22 GK Fraser Forster
+23 DF Luke Shaw
+Italy
+1 GK Gianluigi Buffon
+2 DF Mattia De Sciglio
+3 DF Giorgio Chiellini
+4 DF Matteo Darmian
+5 MF Thiago Motta
+6 MF Antonio Candreva
+7 DF Ignazio Abate
+8 MF Claudio Marchisio
+9 FW Mario Balotelli
+10 FW Antonio Cassano
+11 FW Alessio Cerci
+12 GK Salvatore Sirigu
+13 GK Mattia Perin
+14 MF Alberto Aquilani
+15 DF Andrea Barzagli
+16 MF Daniele De Rossi
+17 FW Ciro Immobile
+18 MF Marco Parolo
+19 DF Leonardo Bonucci
+20 DF Gabriel Paletta
+21 MF Andrea Pirlo
+22 FW Lorenzo Insigne
+23 MF Marco Verratti
+Uruguay
+1 GK Fernando Muslera
+2 DF Diego Lugano
+3 DF Diego Godin
+4 DF Jorge Fucile
+5 MF Walter Gargano
+6 MF alvaro Pereira
+7 MF Cristian Rodriguez
+8 FW Abel Hernandez
+9 FW Luis Suarez
+10 FW Diego Forlan
+11 FW Christian Stuani
+12 GK Rodrigo Muoz
+13 DF Jose Maria Gimenez
+14 MF Nicolas Lodeiro
+15 MF Diego Perez
+16 DF Maxi Pereira
+17 MF Egidio Arevalo Rios
+18 MF Gaston Ramirez
+19 DF Sebastian Coates
+20 MF alvaro Gonzalez
+21 FW Edinson Cavani
+22 DF Martin Caceres
+23 GK Martin Silva
+Ecuador
+1 GK Maximo Banguera
+2 DF Jorge Guagua
+3 DF Frickson Erazo
+4 DF Juan Carlos Paredes
+5 MF Renato Ibarra
+6 MF Christian Noboa
+7 MF Jefferson Montero
+8 MF edison Mendez
+9 MF Joao Rojas
+10 DF Walter Ayovi
+11 FW Felipe Caicedo
+12 GK Adrian Bone
+13 FW Enner Valencia
+14 MF Oswaldo Minda
+15 MF Michael Arroyo
+16 MF Antonio Valencia
+17 FW Jaime Ayovi
+18 DF oscar Bagui
+19 MF Luis Saritama
+20 MF Fidel Martinez
+21 DF Gabriel Achilier
+22 GK Alexander Dominguez
+23 MF Carlos Gruezo
+France
+1 GK Hugo Lloris
+2 DF Mathieu Debuchy
+3 DF Patrice Evra
+4 DF Raphal Varane
+5 DF Mamadou Sakho
+6 MF Yohan Cabaye
+7 MF Remy Cabella
+8 MF Mathieu Valbuena
+9 FW Olivier Giroud
+10 FW Karim Benzema
+11 MF Antoine Griezmann
+12 MF Rio Mavuba
+13 DF Eliaquim Mangala
+14 MF Blaise Matuidi
+15 DF Bacary Sagna
+16 GK Stephane Ruffier
+17 DF Lucas Digne
+18 MF Moussa Sissoko
+19 MF Paul Pogba
+20 FW Loc Remy
+21 DF Laurent Koscielny
+22 MF Morgan Schneiderlin
+23 GK Mickal Landreau
+Honduras
+1 GK Luis Lopez
+2 DF Osman Chavez
+3 DF Maynor Figueroa
+4 DF Juan Pablo Montes
+5 DF Victor Bernardez
+6 DF Juan Carlos Garcia
+7 DF Emilio Izaguirre
+8 MF Wilson Palacios
+9 FW Jerry Palacios
+10 MF Mario Martinez
+11 FW Jerry Bengtson
+12 MF Edder Delgado
+13 FW Carlo Costly
+14 MF oscar Boniek Garcia
+15 MF Roger Espinoza
+16 FW Rony Martinez
+17 MF Andy Najar
+18 GK Noel Valladares
+19 MF Luis Garrido
+20 MF Jorge Claros
+21 DF Brayan Beckeles
+22 GK Donis Escober
+23 MF Marvin Chavez
+Switzerland
+1 GK Diego Benaglio
+2 DF Stephan Lichtsteiner
+3 DF Reto Ziegler
+4 DF Philippe Senderos
+5 DF Steve von Bergen
+6 DF Michael Lang
+7 MF Tranquillo Barnetta
+8 MF Gkhan Inler
+9 FW Haris Seferovi
+10 MF Granit Xhaka
+11 MF Valon Behrami
+12 GK Yann Sommer
+13 DF Ricardo Rodriguez
+14 MF Valentin Stocker
+15 MF Blerim Demaili
+16 MF Gelson Fernandes
+17 FW Mario Gavranovi
+18 FW Admir Mehmedi
+19 FW Josip Drmi
+20 DF Johan Djourou
+21 GK Roman Burki
+22 DF Fabian Schr
+23 MF Xherdan Shaqiri
+Argentina
+1 GK Sergio Romero
+2 DF Ezequiel Garay
+3 DF Hugo Campagnaro
+4 DF Pablo Zabaleta
+5 MF Fernando Gago
+6 MF Lucas Biglia
+7 MF angel Di Maria
+8 MF Enzo Perez
+9 FW Gonzalo Higuain
+10 FW Lionel Messi
+11 MF Maxi Rodriguez
+12 GK Agustin Orion
+13 MF Augusto Fernandez
+14 MF Javier Mascherano
+15 DF Martin Demichelis
+16 DF Marcos Rojo
+17 DF Federico Fernandez
+18 FW Rodrigo Palacio
+19 MF Ricardo alvarez
+20 FW Sergio Aguero
+21 GK Mariano Andujar
+22 FW Ezequiel Lavezzi
+23 DF Jose Maria Basanta
+Bosnia and Herzegovina
+1 GK Asmir Begovi
+2 DF Avdija Vrajevi
+3 DF Ermin Biaki
+4 DF Emir Spahi
+5 DF Sead Kolainac
+6 DF Ognjen Vranje
+7 DF Muhamed Bei
+8 MF Miralem Pjani
+9 FW Vedad Ibievi
+10 MF Zvjezdan Misimovi
+11 FW Edin Deko
+12 GK Jasmin Fejzi
+13 DF Mensur Mujda
+14 MF Tino-Sven Sui
+15 DF Toni unji
+16 MF Senad Luli
+17 MF Senijad Ibrii
+18 MF Haris Medunjanin
+19 FW Edin Via
+20 MF Izet Hajrovi
+21 MF Anel Hadi
+22 GK Asmir Avduki
+23 MF Sejad Salihovi
+Iran
+1 GK Rahman Ahmadi
+2 MF Khosro Heydari
+3 MF Ehsan Hajsafi
+4 DF Jalal Hosseini
+5 DF Amir Hossein Sadeghi
+6 MF Javad Nekounam
+7 MF Masoud Shojaei
+8 MF Reza Haghighi
+9 FW Alireza Jahanbakhsh
+10 FW Karim Ansarifard
+11 MF Ghasem Haddadifar
+12 GK Alireza Haghighi
+13 DF Hossein Mahini
+14 MF Andranik Teymourian
+15 DF Pejman Montazeri
+16 FW Reza Ghoochannejhad
+17 DF Ahmad Alenemeh
+18 MF Bakhtiar Rahmani
+19 DF Hashem Beikzadeh
+20 DF Steven Beitashour
+21 MF Ashkan Dejagah
+22 GK Daniel Davari
+23 DF Mehrdad Pouladi
+Nigeria
+1 GK Vincent Enyeama
+2 DF Joseph Yobo
+3 MF Ejike Uzoenyi
+4 MF Reuben Gabriel
+5 DF Efe Ambrose
+6 DF Azubuike Egwuekwe
+7 FW Ahmed Musa
+8 FW Peter Odemwingie
+9 FW Emmanuel Emenike
+10 MF John Obi Mikel
+11 MF Victor Moses
+12 DF Kunle Odunlami
+13 DF Juwon Oshaniwa
+14 DF Godfrey Oboabona
+15 MF Ramon Azeez
+16 GK Austin Ejide
+17 MF Ogenyi Onazi
+18 MF Michael Babatunde
+19 FW Uche Nwofor
+20 FW Michael Uchebo
+21 GK Chigozie Agbim
+22 DF Kenneth Omeruo
+23 FW Shola Ameobi
+Germany
+1 GK Manuel Neuer
+2 DF Kevin Grokreutz
+3 DF Matthias Ginter
+4 DF Benedikt Hwedes
+5 DF Mats Hummels
+6 MF Sami Khedira
+7 MF Bastian Schweinsteiger
+8 MF Mesut zil
+9 MF Andre Schurrle
+10 FW Lukas Podolski
+11 FW Miroslav Klose
+12 GK Ron-Robert Zieler
+13 MF Thomas Muller
+14 MF Julian Draxler
+15 DF Erik Durm
+16 DF Philipp Lahm
+17 DF Per Mertesacker
+18 MF Toni Kroos
+19 MF Mario Gtze
+20 DF Jerme Boateng
+21 DF Shkodran Mustafi
+22 GK Roman Weidenfeller
+23 MF Christoph Kramer
+Ghana
+1 GK Stephen Adams
+2 DF Samuel Inkoom
+3 FW Asamoah Gyan
+4 DF Daniel Opare
+5 MF Michael Essien
+6 MF Afriyie Acquah
+7 MF Christian Atsu
+8 MF Emmanuel Agyemang-Badu
+9 FW Kevin-Prince Boateng
+10 MF Andre Ayew
+11 MF Sulley Muntari
+12 GK Adam Kwarasey
+13 FW Jordan Ayew
+14 MF Albert Adomah
+15 DF Rashid Sumaila
+16 GK Fatau Dauda
+17 MF Mohammed Rabiu
+18 FW Majeed Waris
+19 DF Jonathan Mensah
+20 MF Kwadwo Asamoah
+21 DF John Boye
+22 MF Wakaso Mubarak
+23 DF Harrison Afful
+Portugal
+1 GK Eduardo
+2 DF Bruno Alves
+3 DF Pepe
+4 MF Miguel Veloso
+5 DF Fabio Coentro
+6 MF William Carvalho
+7 FW Cristiano Ronaldo
+8 MF Joo Moutinho
+9 FW Hugo Almeida
+10 MF Vieirinha
+11 FW eder
+12 GK Rui Patricio
+13 DF Ricardo Costa
+14 DF Luis Neto
+15 MF Rafa Silva
+16 MF Raul Meireles
+17 MF Nani
+18 MF Silvestre Varela
+19 DF Andre Almeida
+20 MF Ruben Amorim
+21 DF Joo Pereira
+22 GK Beto
+23 FW Helder Postiga
+United States
+1 GK Tim Howard
+2 DF DeAndre Yedlin
+3 DF Omar Gonzalez
+4 MF Michael Bradley
+5 DF Matt Besler
+6 DF John Brooks
+7 DF DaMarcus Beasley
+8 FW Clint Dempsey
+9 FW Aron Johannsson
+10 MF Mix Diskerud
+11 MF Alejandro Bedoya
+12 GK Brad Guzan
+13 MF Jermaine Jones
+14 MF Brad Davis
+15 MF Kyle Beckerman
+16 MF Julian Green
+17 FW Jozy Altidore
+18 FW Chris Wondolowski
+19 MF Graham Zusi
+20 DF Geoff Cameron
+21 DF Timothy Chandler
+22 GK Nick Rimando
+23 DF Fabian Johnson
+Algeria
+1 GK Cedric Si Mohamed
+2 DF Madjid Bougherra
+3 DF Faouzi Ghoulam
+4 DF Essad Belkalem
+5 DF Rafik Halliche
+6 DF Djamel Mesbah
+7 MF Hassan Yebda
+8 MF Medhi Lacen
+9 FW Nabil Ghilas
+10 MF Sofiane Feghouli
+11 MF Yacine Brahimi
+12 DF Carl Medjani
+13 FW Islam Slimani
+14 MF Nabil Bentaleb
+15 FW El Arbi Hillel Soudani
+16 GK Mohamed Zemmamouche
+17 DF Liassine Cadamuro-Bentaba
+18 MF Abdelmoumene Djabou
+19 MF Saphir Tader
+20 DF Assa Mandi
+21 MF Riyad Mahrez
+22 MF Mehdi Mostefa
+23 GK Ras M'Bolhi
+Belgium
+1 GK Thibaut Courtois
+2 DF Toby Alderweireld
+3 DF Thomas Vermaelen
+4 DF Vincent Kompany
+5 DF Jan Vertonghen
+6 MF Axel Witsel
+7 MF Kevin De Bruyne
+8 MF Marouane Fellaini
+9 FW Romelu Lukaku
+10 MF Eden Hazard
+11 MF Kevin Mirallas
+12 GK Simon Mignolet
+13 GK Sammy Bossut
+14 FW Dries Mertens
+15 DF Daniel Van Buyten
+16 MF Steven Defour
+17 FW Divock Origi
+18 DF Nicolas Lombaerts
+19 MF Mousa Dembele
+20 MF Adnan Januzaj
+21 DF Anthony Vanden Borre
+22 MF Nacer Chadli
+23 DF Laurent Ciman
+Russia
+1 GK Igor Akinfeev
+2 DF Aleksei Kozlov
+3 DF Georgi Shchennikov
+4 DF Sergei Ignashevich
+5 DF Andrei Semyonov
+6 FW Maksim Kanunnikov
+7 MF Igor Denisov
+8 MF Denis Glushakov
+9 FW Aleksandr Kokorin
+10 MF Alan Dzagoev
+11 FW Aleksandr Kerzhakov
+12 GK Yuri Lodygin
+13 DF Vladimir Granat
+14 DF Vasili Berezutski
+15 MF Pavel Mogilevets
+16 GK Sergey Ryzhikov
+17 MF Oleg Shatov
+18 FW Yuri Zhirkov
+19 FW Aleksandr Samedov
+20 MF Viktor Fayzulin
+21 FW Aleksei Ionov
+22 DF Andrey Yeshchenko
+23 DF Dmitri Kombarov
+South Korea
+1 GK  Jung Sung-ryong
+2 DF Kim Chang-soo
+3 DF Yun Suk-young
+4 DF Kwak Tae-hwi
+5 DF Kim Young-gwon
+6 DF Hwang Seok-ho
+7 MF Kim Bo-kyung
+8 MF Ha Dae-sung
+9 FW Son Heung-min
+10 FW Park Chu-young
+11 FW Lee Keun-ho
+12 DF Lee Yong
+13 MF Koo Ja-cheol
+14 MF Han Kook-young
+15 MF Park Jong-woo
+16 MF Ki Sung-yueng
+17 MF Lee Chung-yong
+18 FW Kim Shin-wook
+19 FW Ji Dong-won
+20 DF Hong Jeong-ho
+21 GK Kim Seung-gyu
+22 DF Park Joo-ho
+23 GK Lee Bum-young

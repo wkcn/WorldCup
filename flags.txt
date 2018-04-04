@@ -1,0 +1,32 @@
+Algeria|aerjiliya
+Argentina|agenting
+Australia|aodaliya
+Belgium|bilishi
+Bosnia and Herzegovina|bosiniyaheheisaigeweina
+Brazil (host)|baxi
+Cameroon|kamailong
+Chile|zhili
+Colombia|gelunbiya
+Costa Rica|gesidalijia
+Croatia|keluodiya
+Ecuador|eguaduoer
+England|yinggelan
+France|faguo
+Germany|deguo
+Ghana|jiana
+Greece|xila
+Honduras|hongdulasi
+Iran|yilang
+Italy|yidali
+Ivory Coast|ketediwa
+Japan|riben
+Mexico|moxige
+Netherlands|helan
+Nigeria|niriliya
+Portugal|putaoya
+Russia|eluosi
+South Korea|hanguo
+Spain|xibanya
+Switzerland|ruishi
+United States|meiguo
+Uruguay|wulagui

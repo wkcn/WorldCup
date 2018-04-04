@@ -1,0 +1,32 @@
+1 Spain UEFA 1 
+2 Germany UEFA 2 
+3 Brazil (host) CONMEBOL 3 
+4 Portugal UEFA 4 
+5 Argentina CONMEBOL 5 
+6 Switzerland UEFA 6 
+7 Uruguay CONMEBOL 7 
+8 Colombia CONMEBOL 8 
+9 Italy UEFA 9 
+10 England UEFA 10 
+11 Belgium UEFA 11 
+12 Greece UEFA 12 
+13 United States CONCACAF 13 
+14 Chile CONMEBOL 14 
+15 Netherlands UEFA 15 
+16 France UEFA 17 
+17 Croatia UEFA 18 
+18 Russia UEFA 19 
+19 Mexico CONCACAF 20 
+20 Bosnia and Herzegovina UEFA 21 
+21 Algeria CAF 22 
+22 Ivory Coast CAF 23 
+23 Ecuador CONMEBOL 26 
+24 Costa Rica CONCACAF 28 
+25 Honduras CONCACAF 33 
+26 Ghana CAF 37 
+27 Iran AFC 43 
+28 Nigeria CAF 44 
+29 Japan AFC 46 
+30 Cameroon CAF 56 
+31 South Korea AFC 57 
+32 Australia AFC 62 
